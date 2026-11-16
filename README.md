@@ -128,7 +128,7 @@ universal-rag-assistant/
 
 ### Step 1: Clone the Repository
 ```cmd
-git clone [https://github.com/vigneshnanu90/Buildathon-Smart-Knowledge-Hub-RAG-App.git](https://github.com/vigneshnanu90/Buildathon-Smart-Knowledge-Hub-RAG-App.git)
+git clone https://github.com/vigneshnanu90/Buildathon-Smart-Knowledge-Hub-RAG-App.git
 cd Buildathon-Smart-Knowledge-Hub-RAG-App
 ```
 
